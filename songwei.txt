@@ -1,0 +1,18 @@
+http://www.ruanyifeng.com/blog/2014/06/git_remote.html
+http://www.ruanyifeng.com/blog/2015/12/git-workflow.html
+http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html
+
+https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+
+https://docs.qq.com/doc/BlRsGl2gV95K1CyqqM4QCszn2lfeij23RkK743WnAZ2G9p8b4QKAGR2f0A3926aedN2tYJ254?ADUIN=1037087310&ADSESSION=1532478345&ADTAG=CLIENT.QQ.5581_.0&ADPUBNO=26804&clear=1
+
+
+
+禅道地址：http://192.168.19.211/zentao/company-browse.html
+用户名：songwei  密码：123456
+svn地址：https://192.168.19.211/svn/GAS
+用户名：songwei  密码：123456
+
+我这边目前的是企管这个项目
+https://192.168.19.211/svn/GAS/05.开发验证/实现阶段/源代码/平台/服务端/gsms_server/gsms_server
+
